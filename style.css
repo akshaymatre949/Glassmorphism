@@ -19,6 +19,7 @@ section{
     height: 100vh;
 }
 
+/* blob code */
 section::before, .card::before{
     content:'';
     position: absolute;
@@ -38,7 +39,8 @@ section::before{
     left: 35%;
     background: linear-gradient(rgb(0,142,250),rgb(4,87,211));
 }
-
+/* blob code */
+/* Glass morphism code */
 .face{
     width: 250px;
     height: 485px;
@@ -60,6 +62,8 @@ section::before{
     margin: 30px auto;
     cursor: pointer;
 }
+
+/* Glassmorphism code */
 
 .face h1{
     font-weight: 300;
